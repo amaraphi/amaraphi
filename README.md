@@ -1,8 +1,8 @@
-<h1>Hi, I'm Amara, an IT Professional.</h1>
+<h1>Hi, I'm Amara, an IT Professional.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-- <b>osTicket (Help Desk Ticketing System)</b>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/amaraphi/osticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/amaraphi/post-install-config)
   
