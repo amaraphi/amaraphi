@@ -7,7 +7,7 @@ deploying and configuring Active Directory; networking concepts; and ticketing s
  <h3>osTicket (Help Desk Ticketing System)</h3>
  
   - [osTicket: Prerequisites and Installation](https://github.com/amaraphi/osticket-prereq)
-  - [osTicket: Post-Installation Configuration](https://github.com/amaraphi/post-install-config)
+  - [osTicket: Post-Installation Configuration] (Coming Soon!)
   
  <h3>Microsoft Azure</h3>
 
