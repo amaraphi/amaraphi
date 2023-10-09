@@ -2,7 +2,7 @@
 <p>This space is dedicated to covering the ins-and-outs of IT fundamentals, including working with virtual machines in the cloud;
 deploying and configuring Active Directory; networking concepts; and ticketing systems.</p>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>What I'm Working On</h2>
 
  <h3>osTicket (Help Desk Ticketing System)</h3>
  
