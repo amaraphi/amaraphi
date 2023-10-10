@@ -5,7 +5,14 @@
 
 
 ### :woman_technologist: About Me :
-<h2>What I'm Working On</h2>
+- ☁️ I enjoy setting up home labs and playing around with virtual machines 
+- 🌱 Learning the ins and outs of Active Directory
+- ⌛ Currently taking the <a href="https://replit.com/@AmaraPhillip">100 Days of Code Python Challenge</a>, one small project at a time
+- 🔭 Exploring networking concepts
+- ⚡ Side interests include UX writing and how psychology can inform user experiences
+
+
+<h2>What I'm Working On:</h2>
 
 
  <h3>osTicket (Help Desk Ticketing System)</h3>
