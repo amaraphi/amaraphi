@@ -7,7 +7,7 @@
 ### :woman_technologist: About Me :
 - ☁️ I enjoy setting up home labs and playing around with virtual machines 
 - 🌱 Learning the ins and outs of Active Directory
-- ⌛ Currently taking the <a href="https://replit.com/@AmaraPhillip">100 Days of Code Python Challenge</a>, one small project at a time
+- ⌛ Currently taking the 100 Days of Code Python Challenge, one small project at a time
 - 🔭 Exploring networking concepts
 - ⚡ Side interests include UX writing and how psychology can inform user experiences
 
