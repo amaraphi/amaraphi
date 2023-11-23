@@ -14,7 +14,10 @@
 
 <h2>What I'm Working On:</h2>
 
+ <h3>Python and Ethical Hacking Concepts</h3>
 
+- [MAC Address Changer](https://github.com/amaraphi/mac_address_changer)
+  
  <h3>osTicket (Help Desk Ticketing System)</h3>
  
   - [osTicket: Prerequisites and Installation](https://github.com/amaraphi/osticket-prereq)
